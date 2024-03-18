@@ -1,0 +1,9 @@
+p:nth-child(odd) {
+  font-size: 20px;
+  color: orangered;
+}
+
+li:last-child {
+  font-weight: bold;
+  color: brown;
+}

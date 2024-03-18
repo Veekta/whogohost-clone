@@ -271,3 +271,12 @@ footer {
   margin-bottom: 15px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
+
+.navbar {
+  padding: 10px 0px !important;
+  box-shadow: none;
+}
+.nav-item {
+  font-size: 18px;
+  font-weight: 700;
+}
